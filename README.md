@@ -1,2 +1,5 @@
 # thibaultsouris.github.io
-Tech website
+# Tech website
+# Personnal website 
+
+https://thibaultsouris.github.io/
